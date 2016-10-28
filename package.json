@@ -1,0 +1,27 @@
+{
+  "name": "gulp-assignment",
+  "version": "1.0.0",
+  "description": "Gulp is very use full. so let me try",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prof3ssorSt3v3/gulp-ex.git"
+  },
+  "keywords": [
+    "gulp",
+    "web",
+    "app"
+  ],
+  "author": "mang0055@algonquinlive.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prof3ssorSt3v3/gulp-ex/issues"
+  },
+  "homepage": "https://github.com/prof3ssorSt3v3/gulp-ex#readme",
+  "devDependencies": {
+    "gulp-closure-compiler": "^0.4.0"
+  }
+}
